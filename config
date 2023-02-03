@@ -13,9 +13,9 @@ CONFIG = {
         delay_plant = 100
     },
     Storage_setting = {
-        storage_seed = "test",
+        storage_seed = "PINGKYCONGLI5212",
         storage_seed_id = EXTERN.id_door,
-        storage_pack = "test",
+        storage_pack = "PINGKYCONGLI1252",
         storage_pack_id = EXTERN.id_door
     },
     Break_setting = {
@@ -55,7 +55,7 @@ CONFIG.GROWX = false
 CONFIG.max_block_to_break = 160
 CONFIG.auto_wear_pickaxe = {
     use_feature = true,
-    storage_pickaxe = "world_pickaxe",
+    storage_pickaxe = "PINGKYCONGLI21",
     storage_pickaxe_id = EXTERN.id_door
 }
 
@@ -88,7 +88,7 @@ CONFIG.captcha_setting = {
 }
 
 CONFIG.use_payy_webhook = true
-CONFIG.use_powershell_webhook = false
+CONFIG.use_powershell_webhook = true
 
 CONFIG.Trash_list ={5040,5042,5044,5032,5034,5036,5038,5028,7162,7164}
 
